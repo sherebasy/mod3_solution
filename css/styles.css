@@ -1,0 +1,12 @@
+#large-text{
+	height: 1000px;
+	background-color: grey;
+	margin: 15px;
+	width: 95%;
+}
+
+.navbar-nav{
+	width: 100%;
+	text-align: center;
+	background-color: purple;
+}
